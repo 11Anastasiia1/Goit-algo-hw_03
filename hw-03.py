@@ -1,5 +1,6 @@
 # 1. Варіант рішення
 
+
 from datetime import datetime, date
 now = datetime.today()
 current_date = now.date()
